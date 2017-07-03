@@ -20,7 +20,7 @@ python3 ball_tracking.py -v tennis_aviGH3Ca-7c7IM_04093_04250.avi -u 1.5 -l 1.5 
 python3 ball_tracking.py -v tennis_avi9WGK1fSdBJs_00112_00250.avi -u 1.5 -l 1.5 -s 5 -d True
 ```
 ### Picking up the frame
-In the first window that pops up, pressing `n` to choose next frame, and pressing `r` for current frame.
+In the first window that pops up, pressing `n` to choose next frame, and pressing `r` for choosing current frame to label the tennis ball.
 ### Lableing the window.
 In the second window, pressing left button of mouse from top left to bottom right to draw a rectangular for the tennis ball. Make the rectangular as small as possible but do not left out the tennis because the radius and color distribution are both important for the algorithms.
 Press `c` when you are statisfied and `r` to reset cutting.
