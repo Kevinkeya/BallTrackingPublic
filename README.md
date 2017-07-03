@@ -1,4 +1,7 @@
-# BallTrackingPublic
+# Tennis ball tracking
+
+## Report link
+https://github.com/Kevinkeya/BallTrackingPublic/blob/master/tracking-tennis-ball.pdf
 
 ## Envrioment requirments
 Python 3 and OpenCV 3.2 required.
